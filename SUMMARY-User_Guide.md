@@ -24,6 +24,7 @@
   - [App Designer Introduction](./User_Guide/apps/app-designer-introduction.md)
   - [Pages](./User_Guide/apps/pages.md)
   - [Dynamic Pages](./User_Guide/apps/dynamic-pages.md)
+  - [Relational Data](./User_Guide/apps/showing-relational-data.md)
   - [Publishing](./User_Guide/apps/publishing.md)
   - [In Page Logic](./User_Guide/apps/introduction-to-in-page-logic.md)
   - [Event Listeners](./User_Guide/apps/event-listeners.md)
