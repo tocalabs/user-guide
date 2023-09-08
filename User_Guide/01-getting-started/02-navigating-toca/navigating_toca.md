@@ -72,9 +72,9 @@ On this page, you can delve into each process to inspect its outputs step by ste
 
 ## The Resources Page
 
-The resources page highlights all Datastores and Listeners. 
+The resources page highlights all Datastores and Listeners.
 
-A Toca Datastore is essentially a SQL (Structured Query Language), it is where you can Create, Read, Update and Delete (CRUD) data throughout you Automation and Apps.
+A Toca Datastore is persistent storage for your Automation workflows. Datastores are a storage container which you can throw almost anything into. They can store files, images, variables and they can even securely store passwords.
 
 A Toca listener is essentially a [RESTFul API](https://en.wikipedia.org/wiki/Representational_state_transfer) service that connects your process together.
 
@@ -88,4 +88,4 @@ The bots page contains all executation bots within your toca account and will di
 
 ## The Packs Page
 
-The Packs page holds pre-packaged Automation and Apps within your Toca instance. 
+The Packs page holds pre-packaged Automation and Apps within your Toca instance.
