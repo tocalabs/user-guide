@@ -5,12 +5,13 @@
 
 ## Table of Contents
 
-1. [Header Naming](#header-naming)
-2. [Table of Contents](#table-of-contents)
-3. [Headings](#headings)
-4. [Consistent Sections](#consistent-sections)
-5. [Bullet Points and Numbering](#bullet-points-and-numbering)
-6. [Instructions](#instructions)
+* [Creating a new automation project](#creating-a-new-automation-project)
+* [The automation landing page](#the-automation-landing-page)
+  * [Activities](#activities)
+  * [Workflows](#workflows)
+  * [Datastores](#datastores)
+  * [Schedules](#schedules)
+  * [Listeners](#listeners)
 
 ## Creating a new automation project
 
@@ -36,7 +37,7 @@ Automation projects are broken into four key areas:
 
 Activities are the foundational building blocks of your Automation projects. They serve as reusable units, enabling you to construct more intricate Workflows. It's recommended to design Activities to address specific segments of the business process you're automating. This approach allows for greater flexibility and scalability by layering and combining multiple Activities within a Workflow. While there are general best practices, your approach to constructing and combining Activities will evolve as you become more familiar with Toca, leading you to develop a style that aligns with your needs.
 
-### Workflows*
+### Workflows
 
 In Toca, a Workflow is a structured sequence of Activities, ensuring a consistent and repeatable pattern of business processes. Representing the pinnacle of automation within the platform, Workflows amalgamate various activities, effectively mirroring the overarching business process they're designed to emulate. By leveraging the Business Process Model and Notation (BPMN) [iconography](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), Workflows serve as intuitive visual maps of your organizational procedures.
 
