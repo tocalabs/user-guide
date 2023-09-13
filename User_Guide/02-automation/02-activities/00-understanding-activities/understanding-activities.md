@@ -9,7 +9,7 @@
 2. [Decomposing Business Processes for Automation: Why It's Essential](#decomposing-business-processes-for-automation-why-its-essential)
 3. [Invoice Processing example workflow](#invoice-processing-example-workflow)
     * [The workflow at a high level](#the-workflow-at-a-high-level)
-4. 
+4. [Streamlining Invoice Processing with Toca Automation]](#streamlining-invoice-processing-with-toca-automation)
 
 ## Activities
 
