@@ -1,4 +1,4 @@
-# [Title]
+# Creating an Activity
 
 **Purpose:** A brief explanation of what the section aims to accomplish.  
 **Prerequisites:** Anything that the reader needs to know or have before starting.
