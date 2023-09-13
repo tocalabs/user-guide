@@ -1,47 +1,28 @@
-# Creating an Activity
+# Adding an Activity to your Automation Project
 
-**Purpose:** A brief explanation of what the section aims to accomplish.  
-**Prerequisites:** Anything that the reader needs to know or have before starting.
+**Purpose:** An explanation on how to add an Activty to your project.
+**Prerequisites:** A project already set up on toca.
 
 ## Table of Contents
 
-1. [Header Naming](#header-naming)
-2. [Table of Contents](#table-of-contents)
-3. [Headings](#headings)
-4. [Consistent Sections](#consistent-sections)
-5. [Bullet Points and Numbering](#bullet-points-and-numbering)
-6. [Instructions](#instructions)
+1. [Adding an Activity](#adding-an-activity)
 
-## Header Naming
+## Adding an Activity
 
-Ensure the header is the same name as the named file. For example, if the file name is `user-guide.md`, the main header should be `# User Guide`.
+Given you already have a project set up and you are on the project home page, select the `add activity` button as below:
 
-## Headings
+![Add activity](img/add_activity.png)
 
-Use appropriate headings to structure content. Ensure a logical hierarchy:
-- `#` for main titles
-- `##` for subheadings
-- `###` for tertiary headings
+You will see the following pop up appear:
 
-## Consistent Sections
+![add activity pop up](img/add_activity_fields.png)
 
-Maintain consistent sections across similar documents to enhance readability. Common sections might include:
-- Introduction
-- Usage
-- Examples
+As you can see there are three fields:
 
-## Bullet Points and Numbering
+* ***Name*** - It is important to use names that will be descriptive of the particular activity. For instance, if you're automating a process to extract customer email addresses from an incoming form, a name like "EmailExtraction_Activity" would be both descriptive and easy to identify later on.
 
-- Use bullet points for unordered lists:
-  - Item 1
-  - Item 2
+* ***Description*** - For every task you create, ensure you provide a clear description that succinctly outlines its primary function. This will not only help you quickly understand its purpose at a glance but will also assist other team members in deciphering its role without deep diving into its specifics.
 
-- Use numbering for ordered lists or step-by-step instructions:
-  1. Step 1
-  2. Step 2
+* ***Bot*** - You have an option of Stateless and may have more that one bot to select from dependent on the number of bots you have purchase.
 
-## Instructions
-
-Provide step-by-step guidance here. Include screenshots and examples if possible:
-1. First step description.
-2. Second step description.
+Simply click on "Create." This action will navigate you to the Activity Designer, which we'll delve into in the subsequent section.
