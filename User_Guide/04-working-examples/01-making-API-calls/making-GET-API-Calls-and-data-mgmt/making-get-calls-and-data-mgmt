@@ -1,4 +1,4 @@
-# Making API GET Calles and Managing Data
+# Making API GET Calls and Managing Data
 
 **Purpose:** The aim of this section is to show how to make API calls to a service as well as handle JSON responses into a Datastore for future use.
 
