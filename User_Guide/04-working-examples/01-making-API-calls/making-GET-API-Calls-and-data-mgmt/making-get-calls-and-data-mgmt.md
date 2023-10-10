@@ -6,8 +6,14 @@
 
 ## Table of Contents
 
+
 1. [Pre-requisites](#pre-requisites)
-2. [Creating a Bas URL](#creating-our-base-url)
+2. [Creating a Base URL](#creating-our-base-url)
+3. [Making Our API Call](#making-our-api-call)
+4. [Data Storage](#data-storage)
+5. [Capturing Our JSON Data](#capturing-our-json-data)
+6. [Adding Our Data to Our Datastore](#adding-our-data-to-our-datastore)
+7. [Conclusion](#conclusion)
 
 ## Pre-requisites
 
