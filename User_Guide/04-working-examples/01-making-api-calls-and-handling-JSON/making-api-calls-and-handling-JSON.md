@@ -20,4 +20,5 @@ For this working example, we will assume the need to create two services: one th
 
 ## Working examples content
 
-- [Making GET API Calls & JSON data management]()
+- [Making GET API Calls & JSON data management](https://github.com/tocalabs/user-guide/tree/rebuild-project/User_Guide/04-working-examples/01-making-api-calls-and-handling-JSON/01-making-GET-API-Calls-and-JSON-data-mgmt)
+- [Making POST API Calls & JSON data management](https://github.com/tocalabs/user-guide/tree/rebuild-project/User_Guide/04-working-examples/01-making-api-calls-and-handling-JSON/02-making-POST-API-Calls-and-JSON-data-mgmt)
